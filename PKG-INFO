@@ -1,0 +1,28 @@
+Metadata-Version: 1.0
+Name: barrel
+Version: 0.1.3
+Summary: Flexible WSGI authentication and authorization tools.
+Home-page: http://lukearno.com/projects/barrel/
+Author: Luke Arno
+Author-email: luke.arno@gmail.com
+License: GPL2
+Description: This distribution provides a variety of access control middlewares.
+        Convenience functions which can be used as decorators are included.
+        The classes have useful defaults yet are highly configurable.
+        All interfaces are designed to be easily customized and extended.
+        Currently supports HTTP Basic and Web forms authentication,
+        roles-based authorization and is beaker session compatible out of
+        the box. (It is no problem to use some other type of sessions or none.)
+Keywords: wsgi authentication authorization web http webapps
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Environment :: Web Environment
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: GNU Library or Lesser General Public License (LGPL)
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Topic :: Security
+Classifier: Topic :: Internet :: WWW/HTTP :: WSGI :: Middleware
+Classifier: Topic :: Software Development :: Libraries
+Classifier: Topic :: Utilities
